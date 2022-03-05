@@ -1,11 +1,11 @@
-# cpp_boilerplate_project
+# template_test_repository
 
-[![ci](https://github.com/cpp-best-practices/cpp_boilerplate_project/actions/workflows/ci.yml/badge.svg)](https://github.com/cpp-best-practices/cpp_boilerplate_project/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/cpp-best-practices/cpp_boilerplate_project/branch/main/graph/badge.svg)](https://codecov.io/gh/cpp-best-practices/cpp_boilerplate_project)
-[![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/cpp-best-practices/cpp_boilerplate_project)](https://lgtm.com/projects/g/cpp-best-practices/cpp_starter_project/context:cpp)
-[![CodeQL](https://github.com/cpp-best-practices/cpp_boilerplate_project/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cpp-best-practices/cpp_boilerplate_project/actions/workflows/codeql-analysis.yml)
+[![ci](https://github.com/cpp-best-practices/template_test_repository/actions/workflows/ci.yml/badge.svg)](https://github.com/cpp-best-practices/template_test_repository/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/cpp-best-practices/template_test_repository/branch/main/graph/badge.svg)](https://codecov.io/gh/cpp-best-practices/template_test_repository)
+[![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/cpp-best-practices/template_test_repository)](https://lgtm.com/projects/g/cpp-best-practices/cpp_starter_project/context:cpp)
+[![CodeQL](https://github.com/cpp-best-practices/template_test_repository/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cpp-best-practices/template_test_repository/actions/workflows/codeql-analysis.yml)
 
-## About cpp_boilerplate_project
+## About template_test_repository
 
 This is a C++ Best Practices GitHub template for getting up and running with C++ quickly.
 
@@ -36,7 +36,7 @@ Ths Boilerplate project will merge new features first, then they will be merged 
 
 ### Use the Github template
 First, click the green `Use this template` button near the top of this page.
-This will take you to Github's ['Generate Repository'](https://github.com/cpp-best-practices/cpp_boilerplate_project/generate) page.
+This will take you to Github's ['Generate Repository'](https://github.com/cpp-best-practices/template_test_repository/generate) page.
 Fill in a repository name and short description, and click 'Create repository from template'.
 This will allow you to create a new repository in your Github account,
 prepopulated with the contents of this project.
